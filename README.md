@@ -1,4 +1,4 @@
-# Istanbul Digital Nomads — Organization Defaults
+# Istanbul Digital Nomads - Organization Defaults
 
 This repository holds organization-wide community health files for [istanbul-digital-nomads](https://github.com/istanbul-digital-nomads). GitHub automatically applies these to all org repos that don't define their own.
 
@@ -24,5 +24,5 @@ For example:
 
 ## Related
 
-- [Organization Profile](profile/README.md) — Public-facing org page
-- [Community Repo](https://github.com/istanbul-digital-nomads/community) — Detailed governance docs
+- [Organization Profile](profile/README.md) - Public-facing org page
+- [Community Repo](https://github.com/istanbul-digital-nomads/community) - Detailed governance docs
