@@ -1,3 +1,5 @@
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-blue?logo=telegram)](https://t.me/istanbul_digital_nomads)
+
 # Istanbul Digital Nomads 🇹🇷
 
 **A community for remote workers, freelancers, and digital nomads living in or visiting Istanbul.**
@@ -25,6 +27,7 @@ Istanbul is one of the world's most exciting cities for digital nomads: affordab
 | [community](https://github.com/istanbul-digital-nomads/community) | Guidelines, code of conduct, how to contribute |
 | [events](https://github.com/istanbul-digital-nomads/events) | Meetup planning, event templates, past events |
 | [resources](https://github.com/istanbul-digital-nomads/resources) | Curated guides for living and working in Istanbul |
+| [website](https://github.com/istanbul-digital-nomads/website) | Community website source code |
 
 ## Quick Stats
 
